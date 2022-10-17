@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About
+  I am a 4th year student looking for a job in gamedev
+### My skills
+  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png
 
-### :fire: My Stats :
+
+### :fire: My Stats : fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ader0m&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ader0m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
